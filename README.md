@@ -1,7 +1,6 @@
 Project Title
 
-Voice-Enabled Cursor Control & Coding System using Gemini AI
-
+Vvoice-driven coding assistant
 🎯 Overview
 
 This project is an AI-powered voice assistant that allows users to interact with their computer using natural speech instead of keyboard and mouse. It leverages Google Gemini to understand flexible human language and convert it into actionable system commands.
